@@ -1,0 +1,51 @@
+Formula Pair,Error,Satisfiability,Validity
+./seeds_BV_unsat/bench_3732.smt2 & ./seeds_BV_unsat/bench_6748.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7586.smt2 & ./seeds_BV_unsat/bench_7566.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_1533.smt2 & ./seeds_BV_unsat/bench_834.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_8204.smt2 & ./seeds_BV_unsat/bench_3271.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_4504.smt2 & ./seeds_BV_unsat/bench_8016.smt2,"Error in SMT formula: b'(error ""line 7 column 0: invalid assert command, \')\' expected"")\n'",,
+./seeds_BV_unsat/bench_1605.smt2 & ./seeds_BV_unsat/bench_7939.smt2,"Error in SMT formula: b'(error ""line 18 column 2289: invalid assert command, \')\' expected"")\n'",,
+./seeds_BV_unsat/bench_1022.smt2 & ./seeds_BV_unsat/bench_4893.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_2654.smt2 & ./seeds_BV_unsat/bench_4251.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_6659.smt2 & ./seeds_BV_unsat/bench_2959.smt2,"Error in SMT formula: b'(error ""line 8 column 3858: invalid assert command, \')\' expected"")\n'",,
+./seeds_BV_unsat/bench_5060.smt2 & ./seeds_BV_unsat/bench_8396.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7073.smt2 & ./seeds_BV_unsat/bench_3330.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_3400.smt2 & ./seeds_BV_unsat/bench_1233.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_6697.smt2 & ./seeds_BV_unsat/bench_8119.smt2,"Error in SMT formula: b'(error ""line 10 column 1768: invalid assert command, \')\' expected"")\n'",,
+./seeds_BV_unsat/bench_7423.smt2 & ./seeds_BV_unsat/bench_7196.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7011.smt2 & ./seeds_BV_unsat/bench_7361.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_4909.smt2 & ./seeds_BV_unsat/bench_2485.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_4349.smt2 & ./seeds_BV_unsat/bench_7588.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_1090.smt2 & ./seeds_BV_unsat/bench_1537.smt2,"Error in SMT formula: b'(error ""line 18 column 2128: invalid command, \'(\' expected"")\n'",,
+./seeds_BV_unsat/bench_838.smt2 & ./seeds_BV_unsat/bench_7071.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_3274.smt2 & ./seeds_BV_unsat/bench_8355.smt2,"Error in SMT formula: b'(error ""line 10 column 1678: invalid assert command, \')\' expected"")\n'",,
+./seeds_BV_unsat/bench_4116.smt2 & ./seeds_BV_unsat/bench_6766.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_8382.smt2 & ./seeds_BV_unsat/bench_2566.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7163.smt2 & ./seeds_BV_unsat/bench_7479.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7915.smt2 & ./seeds_BV_unsat/bench_7279.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_6822.smt2 & ./seeds_BV_unsat/bench_2374.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_4028.smt2 & ./seeds_BV_unsat/bench_832.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_3278.smt2 & ./seeds_BV_unsat/bench_8024.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_5055.smt2 & ./seeds_BV_unsat/bench_742.smt2,"Error in SMT formula: b'(error ""line 25 column 2481: invalid command, \'(\' expected"")\n'",,
+./seeds_BV_unsat/bench_6561.smt2 & ./seeds_BV_unsat/bench_4352.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_2544.smt2 & ./seeds_BV_unsat/bench_6091.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_813.smt2 & ./seeds_BV_unsat/bench_2497.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_2630.smt2 & ./seeds_BV_unsat/bench_1804.smt2,"Error in SMT formula: b'(error ""line 23 column 2147: Argument #xfffffcff at position 1 has sort (_ BitVec 32) it does not match declaration (declare-fun bvadd ((_ BitVec 8) (_ BitVec 8)) (_ BitVec 8))"")\n'",,
+./seeds_BV_unsat/bench_8000.smt2 & ./seeds_BV_unsat/bench_5097.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_3567.smt2 & ./seeds_BV_unsat/bench_7210.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_2235.smt2 & ./seeds_BV_unsat/bench_7277.smt2,,SAT,Valid
+./seeds_BV_unsat/bench_7935.smt2 & ./seeds_BV_unsat/bench_2634.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_1331.smt2 & ./seeds_BV_unsat/bench_3419.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7759.smt2 & ./seeds_BV_unsat/bench_2179.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_2251.smt2 & ./seeds_BV_unsat/bench_6709.smt2,"Error in SMT formula: b'(error ""line 10 column 2276: invalid command, \'(\' expected"")\n'",,
+./seeds_BV_unsat/bench_8290.smt2 & ./seeds_BV_unsat/bench_7764.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_4885.smt2 & ./seeds_BV_unsat/bench_2174.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_7349.smt2 & ./seeds_BV_unsat/bench_7595.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_6689.smt2 & ./seeds_BV_unsat/bench_7640.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_796.smt2 & ./seeds_BV_unsat/bench_3921.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_8277.smt2 & ./seeds_BV_unsat/bench_2379.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_1445.smt2 & ./seeds_BV_unsat/bench_2253.smt2,"Error in SMT formula: b'(error ""line 17 column 55: Argument #x00000016 at position 1 has sort (_ BitVec 32) it does not match declaration (declare-fun bvadd ((_ BitVec 8) (_ BitVec 8)) (_ BitVec 8))"")\n'",,
+./seeds_BV_unsat/bench_4477.smt2 & ./seeds_BV_unsat/bench_2455.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_3119.smt2 & ./seeds_BV_unsat/bench_5062.smt2,,UNSAT,Valid
+./seeds_BV_unsat/bench_8276.smt2 & ./seeds_BV_unsat/bench_4618.smt2,"Error in SMT formula: b'(error ""line 8 column 308: unknown constant ?v_0"")\n'",,
+./seeds_BV_unsat/bench_8466.smt2 & ./seeds_BV_unsat/bench_6786.smt2,"Error in SMT formula: b'(error ""line 105 column 0: invalid assert command, \')\' expected"")\n'",,
